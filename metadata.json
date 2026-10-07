@@ -1,0 +1,6 @@
+{
+  "name": "منصة المتابعة الإدارية للإقامة الجامعية",
+  "description": "منصة المتابعة الإدارية الرسمية للإقامة الجامعية للتنسيق بين المدير ورؤساء المصالح",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
